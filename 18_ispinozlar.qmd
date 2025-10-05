@@ -132,7 +132,7 @@ Karadeniz Bölgesi’nde, 2500 m’ye kadar olan yükseltilerde yaygındır. Mar
 **Yuvalama alanı:** Çoğunlukla Karadeniz Bölgesi'nde 900 m'nin üstündeki sık ibreli ve karışık ormanlarda ürer.\
 **Yuvası:** Türkiye'de yuva ile ilgili kayıt bulunmamaktadır. Diğer bölgelerde yuva genellikle bir çalı veya genç bir ağacın üzerine, yerden 1–2 m yükseğe yapılır. Sığ yapıdaki yuva, ince dallar, yosun ve likenlerle örülür; kökler ve kıllarla astarlanır.\
 **Yumurta sayısı:** Türkiye'de veri yoktur. Diğer bölgelerde olağan yumurta sayısı 4–5’tir.\
-**Üreme dönemi:** **KAR:** 9 Haziran 1975’te Boyabat’ta tüylenmiş yavrularını besleyen bir çift gözlenmiştir. Bu kuşların habitatı, yaklaşık 1300 m yükseklikte, arada tarım arazileri, birkaç yapraklı ağaç ve çalı bulunan çamlarla kaplı kireçtaşı tepelerdir. 25 Ağustos 2000’de Sivrikaya’da sık orman içinde yavrular, 31 Ağustos 1973’te İkizdere’de iki yavru gözlenmiştir. Bu kayıtlar büyük olasılıkla ikinci kuluçkaya aittir ve çift kuluçka, bu enlemdeki diğer bölgelerde de yaygındır.
+**Üreme dönemi:** **KAD:** 9 Haziran 1975’te Boyabat’ta tüylenmiş yavrularını besleyen bir çift gözlenmiştir. Bu kuşların habitatı, yaklaşık 1300 m yükseklikte, arada tarım arazileri, birkaç yapraklı ağaç ve çalı bulunan çamlarla kaplı kireçtaşı tepelerdir. 25 Ağustos 2000’de Sivrikaya’da sık orman içinde yavrular, 31 Ağustos 1973’te İkizdere’de iki yavru gözlenmiştir. Bu kayıtlar büyük olasılıkla ikinci kuluçkaya aittir ve çift kuluçka, bu enlemdeki diğer bölgelerde de yaygındır.
 
 **Alttürler ve Sınıflandırma**
 
@@ -163,7 +163,7 @@ Kış aylarında İç Anadolu’nun bozkırlarında nadiren görülür. Ege’de
 
 **Alttürler ve Sınıflandırma**
 
-Tip örneği Erzurum'dan toplanmıştır; dolayısıyla nominat alttür bulunur. Kuzeydoğu Afrika'da Atlas Dağlarındaki *alienus* alttürünün bütün giysilerindeki farklılıklar ve morfolojik özellikleri dikkate alınarak iki allopatrik tür olduğu öner sürülmüş [@kirwan2006a], bu öneri kabul görmemiştir. Bilimsel ismin doğru yazılışına dikkat ediniz [@david2002b]. Cins düzeyinde taksonomik tartışmalar için doğu alameceğine bakınız.
+Tip örneği Erzurum'dan toplanmıştır; dolayısıyla nominat alttür bulunur. Kuzeydoğu Afrika'da Atlas Dağlarındaki *alienus* alttürünün bütün giysilerindeki farklılıklar ve morfolojik özellikleri dikkate alınarak iki allopatrik tür olduğu öne sürülmüş [@kirwan2006a], bu öneri kabul görmemiştir. Bilimsel ismin doğru yazılışına dikkat edilmelidir [@david2002b]. Cins düzeyinde taksonomik tartışmalar için doğu alameceğine bakınız.
 
 ## Küçük Alamecek
 
