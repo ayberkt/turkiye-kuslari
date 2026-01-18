@@ -1,3 +1,5 @@
 /.quarto/
 .Rproj.user
 turkiye-kuslari_qmd_etc.zip
+
+**/*.quarto_ipynb
